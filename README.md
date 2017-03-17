@@ -1,2 +1,4 @@
 # Character-Recognition-from-Historic-Documents
 The objective of the project was to develop character classifiers for several historical documents, each produced shortly after the advent of the printing press.
+
+Image classification is widely being used in today’s world. Optical Character Recognition (OCR), under image classification, is an important machine learning application which digitalizes printed document i.e. converts an image of a printed document into text. Digitalizing books or anything that has text on it, is where OCR is widely being used. Digitalizing historical documents is a huge challenge today. There are hefty number of machine learning techniques used for image classification nowadays. In this project, three techniques: Random Forests, K-Nearest Neighbor (K-NN) and Convolutional Neural Network (CNN) have been used and also compared their performances with respect to each other. 
